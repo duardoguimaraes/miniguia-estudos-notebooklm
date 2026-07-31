@@ -73,28 +73,6 @@ O **Git** é um sistema de controle de versão distribuído (*DVCS*). Ele regist
 2. **Staging Area (Área de Preparação / Index):** Onde você seleciona quais alterações específicas farão parte do próximo "retrato" (snapshot) do projeto.
 3. **Local Repository (Repositório Local):** Onde o Git salva permanentemente os snapshots (*commits*) no histórico da sua máquina.
 
-#### Fluxo de Comandos Essenciais
-
-```bash
-# 1. Inicializar o repositório na pasta atual
-git init
-
-# 2. Verificar o estado dos arquivos
-git status
-
-# 3. Adicionar arquivos à Staging Area
-git add nome-do-arquivo.txt    # Arquivo específico
-git add .                      # Todos os arquivos alterados
-
-# 4. Salvar as alterações no repositório local
-git commit -m "feat: adiciona estrutura inicial do projeto"
-
-# 5. Conectar ao repositório remoto (GitHub)
-git remote add origin [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-
-# 6. Enviar suas alterações para o GitHub
-git push -u origin main
-
 ### 📘 2. Glossário de Conceitos-Chave
 
 * **Repository (Repositório):** A "pasta" do seu projeto onde o Git armazena todo o histórico de alterações e arquivos de configuração.
