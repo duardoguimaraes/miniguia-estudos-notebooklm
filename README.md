@@ -95,7 +95,7 @@ O **GitHub** é uma plataforma baseada em nuvem que hospeda repositórios Git. E
 
 ### 🔄 3. Prompts Reutilizáveis para Revisão Futura
 
-Guarde estes prompts para utilizar no NotebookLM ou em outras IAs sempre que precisar revisar conceitos de Git e GitHub:
+Prompts para utilizar no NotebookLM ou em outras IAs sempre que precisar revisar conceitos de Git e GitHub:
 
 > 🤖 **Prompt para Explicar Comandos:**
 > *"Atue como um instrutor de programação didático. Explique a função do comando `git [INSERIR_COMANDO]` para um iniciante, mostrando um exemplo prático de uso e o que acontece nos bastidores do repositório."*
@@ -108,7 +108,7 @@ Guarde estes prompts para utilizar no NotebookLM ou em outras IAs sempre que pre
 
 ---
 
-## 🤝 Considerações Finalização e Entregáveis
+## 🤝 Considerações Finais
 
 Este material foi construído unindo curadoria humana e capacidade analítica da IA (**NotebookLM**), demonstrando como a Inteligência Artificial pode potencializar a documentação e o aprendizado contínuo na área de tecnologia.
 
