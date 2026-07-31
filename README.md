@@ -73,6 +73,14 @@ O **Git** é um sistema de controle de versão distribuído (*DVCS*). Ele regist
 2. **Staging Area (Área de Preparação / Index):** Onde você seleciona quais alterações específicas farão parte do próximo "retrato" (snapshot) do projeto.
 3. **Local Repository (Repositório Local):** Onde o Git salva permanentemente os snapshots (*commits*) no histórico da sua máquina.
 
+#### O que é GitHub?
+O **GitHub** é uma plataforma baseada em nuvem que hospeda repositórios Git. Enquanto o Git opera localmente na sua máquina gerenciando o histórico do código, o GitHub funciona como a rede social e a central de colaboração dos desenvolvedores, permitindo compartilhar projetos, trabalhar em equipe e manter backups remotos.
+
+#### Os Três Pilares do GitHub
+1. **Remote Repository (Repositório Remoto):** A cópia do seu projeto salva na nuvem para acesso de qualquer lugar e compartilhamento com outros devs.
+2. **Pull Requests (PRs):** O mecanismo de proposta e revisão de código, onde você solicita que suas alterações sejam incorporadas ao projeto principal.
+3. **Social Coding & Issues:** O ecossistema de colaboração contendo acompanhamento de tarefas/bugs (*Issues*), discussões, forks e portfólio público do desenvolvedor.
+
 ### 📘 2. Glossário de Conceitos-Chave
 
 * **Repository (Repositório):** A "pasta" do seu projeto onde o Git armazena todo o histórico de alterações e arquivos de configuração.
