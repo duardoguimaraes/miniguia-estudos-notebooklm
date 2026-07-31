@@ -28,12 +28,14 @@ Para alimentar o NotebookLM e garantir respostas precisas e fundamentadas (sem a
    * *Descrição:* Glossário oficial do GitHub detalhando a terminologia de colaboração remota.
 3. **[Atlassian Git Tutorial - Basic Git Commands](https://www.atlassian.com/git/tutorials/setting-up-a-repository)**
    * *Descrição:* Artigo explicativo sobre a criação de repositórios, preparação de arquivos (*staging*) e histórico de commits.
+4. **[Markdown Guide](https://www.markdownguide.org/)**
+   * *Descrição:* Guia de referência abrangente para formatação e estruturação de documentações técnicas em sintaxe Markdown.
 
 ---
 
 ## 🛠️ Engenharia de Prompts, Testes e "Cicatrizes" (Troubleshooting)
 
-Nesta seção estão registrados os testes de prompts aplicados no NotebookLM, os ajustes necessários para obter melhores respostas e os aprendizados do processo.
+Registros de  testes de prompts aplicados no NotebookLM, os ajustes necessários para obter melhores respostas e os aprendizados do processo.
 
 ### 📜 Teste 1: Explicação do Fluxo Básico do Git
 
