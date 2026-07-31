@@ -6,7 +6,7 @@
 ## 🎯 Contexto e Objetivos
 
 ### Contexto
-O controle de versão com **Git** e o uso do **GitHub** são competências essenciais para qualquer pessoa que deseja ingressar no mercado de desenvolvimento de software e tecnologia. No entanto, iniciantes frequentemente enfrentam dificuldades com a terminologia (*commit*, *pull request*, *merge*, *branch*), com a linha de comando e com a compreensão do fluxo de trabalho colaborativo.
+O uso do **Git** e do **GitHub** são competências essenciais para qualquer pessoa que deseja ingressar no mercado de desenvolvimento de software e tecnologia. No entanto, iniciantes frequentemente enfrentam dificuldades com a terminologia (*commit*, *pull request*, *merge*, *branch*), com a linha de comando e com a compreensão do fluxo de trabalho colaborativo.
 
 Este projeto utiliza o **NotebookLM** como ferramenta de aprendizagem ativa para analisar fontes confiáveis, sintetizar conceitos cruciais e gerar um material prático de consulta rápida.
 
@@ -67,7 +67,7 @@ Registros de  testes de prompts aplicados no NotebookLM, os ajustes necessários
 
 ### 🔍 1. Resumo Estruturado do Assunto
 
-#### O que é Git?
+#### **O que é Git?**
 O **Git** é um sistema de controle de versão distribuído (*DVCS*). Ele registra as alterações feitas em um conjunto de arquivos ao longo do tempo, permitindo que você volte a versões específicas, recupere arquivos perdidos e trabalhe em equipe sem sobrescrever o trabalho de outros.
 
 #### Os Três Estados do Git
@@ -75,7 +75,7 @@ O **Git** é um sistema de controle de versão distribuído (*DVCS*). Ele regist
 2. **Staging Area (Área de Preparação / Index):** Onde você seleciona quais alterações específicas farão parte do próximo "retrato" (snapshot) do projeto.
 3. **Local Repository (Repositório Local):** Onde o Git salva permanentemente os snapshots (*commits*) no histórico da sua máquina.
 
-#### O que é GitHub?
+#### **O que é GitHub?**
 O **GitHub** é uma plataforma baseada em nuvem que hospeda repositórios Git. Enquanto o Git opera localmente na sua máquina gerenciando o histórico do código, o GitHub funciona como a rede social e a central de colaboração dos desenvolvedores, permitindo compartilhar projetos, trabalhar em equipe e manter backups remotos.
 
 #### Os Três Pilares do GitHub
